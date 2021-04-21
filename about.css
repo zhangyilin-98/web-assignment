@@ -1,0 +1,28 @@
+.info img{
+	width: 300px !important;
+    /* height: 500px; */
+	margin-bottom: 20px !important;
+}
+
+.info{
+	width: 750px;
+	float: left;
+}
+
+.info p{
+	font-size: 30px;
+    font-weight: 400;
+}
+
+.image{
+    width: 350px;
+    overflow: hidden;
+    float: left;
+    position: relative;
+    height: 100%;
+    margin-left: 20px;
+}
+
+.image img{
+	width: 350px;
+}

@@ -1,0 +1,35 @@
+.info {
+    width: 80%;
+    height: 100%;
+    float: left;
+}
+
+.info p{
+    width: 100%;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: right;
+    margin: 40px 0; 
+}
+
+.info ul{
+    width: 100%;
+    float: left;
+    margin-top: 10%;
+    margin-left: 150px;
+}
+
+.info ul li{
+    float: left;
+    /* flex: 1; */
+    margin: 0 50px;
+}
+
+.info ul li img{
+    display: block;
+    width: 230px;
+    height: 230px;
+    margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
